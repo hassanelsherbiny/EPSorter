@@ -1,0 +1,6 @@
+H:\Developments\BitsDevelopments\Projects\EPSorter\EPSorter\bin\Debug\EPSorter.exe
+H:\Developments\BitsDevelopments\Projects\EPSorter\EPSorter\bin\Debug\EPSorter.pdb
+H:\Developments\BitsDevelopments\Projects\EPSorter\EPSorter\obj\Debug\EPSorter.csprojAssemblyReference.cache
+H:\Developments\BitsDevelopments\Projects\EPSorter\EPSorter\obj\Debug\EPSorter.csproj.CoreCompileInputs.cache
+H:\Developments\BitsDevelopments\Projects\EPSorter\EPSorter\obj\Debug\EPSorter.exe
+H:\Developments\BitsDevelopments\Projects\EPSorter\EPSorter\obj\Debug\EPSorter.pdb
